@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjreact_com_docsaurus_01=self.webpackChunkjreact_com_docsaurus_01||[]).push([[575],{6816:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/zbciok.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
